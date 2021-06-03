@@ -28,8 +28,39 @@ const client = new Client()//creating a new discord.js client
 ```
 
 ## ✍ | Examples
+```js
+require("discordjs-activity")
+const { Client } = require("discord.js")
+const client = new Client()
+
+client.on("message", async (message) => {
+    if(message.author.bot)return
+    if(message.content === "yt"){
+        let VoiceChannel = client.channels.cache.get("829720761203687514")//Voice Channel ID
+        let Invite = await VoiceChannel.activityInvite("755600276941176913")//Application ID
+        message.channel.send("https://discord.com/invite/"+Invite.code)
+    }
+})
+
+client.login("super secret token")
+```
 All of our Examples and activites are in [examples.js](https://github.com/SudhanPlayz/discordjs-activity/blob/main/examples.js)
 If you have any other problems/questions, you can join our [Support Server!](https://discord.gg/a9SHDpD)
+
+## ✨ | Application IDs
+### Poker Night
+Client ID: `755827207812677713`
+![](https://cdn.discordapp.com/attachments/749254970003423345/849889747794657290/unknown.png)
+### Betrayal.io
+Client ID: `773336526917861400`
+![](https://media.discordapp.net/attachments/749254970003423345/849891725144752178/unknown.png)
+### YouTube Together
+Client ID: `755600276941176913`
+![](https://media.discordapp.net/attachments/749254970003423345/849889254327058442/unknown.png)
+### Fishington.io
+Client ID: `814288819477020702`
+![](https://cdn.discordapp.com/attachments/749254970003423345/849892686160592937/unknown.png)
+#### Even more coming soon
 
 ## 👥 | Support Server
 <a href="https://www.youtube.com/channel/UCxxK71QFN4_PrBhCFmH2Jmw"><img widhtsrc="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/streaming/youtube%402x.png"></a></br>
