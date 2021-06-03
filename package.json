@@ -1,0 +1,23 @@
+{
+  "name": "discordjs-activity",
+  "version": "1.0.0",
+  "description": "An simple package to create an Activity in Discord Voice Channel using Discord.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SudhanPlayz/discordjs-activity.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SudhanPlayz/discordjs-activity/issues"
+  },
+  "homepage": "https://github.com/SudhanPlayz/discordjs-activity#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
