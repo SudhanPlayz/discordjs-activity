@@ -35,14 +35,14 @@ const client = new Client()
 
 client.on("message", async (message) => {
     if(message.author.bot)return
-    if(message.content === "yt"){
-        let VoiceChannel = client.channels.cache.get("829720761203687514")//Voice Channel ID
+    if(message.content === "youtube"){
+        let VoiceChannel = client.channels.cache.get("Voice Channel ID")//Voice Channel ID
         let Invite = await VoiceChannel.activityInvite("755600276941176913")//Application ID
         message.channel.send("https://discord.com/invite/"+Invite.code)
     }
 })
 
-client.login("super secret token")
+client.login("Super secret token")
 ```
 All of our Examples and activites are in [examples.js](https://github.com/SudhanPlayz/discordjs-activity/blob/main/examples.js)
 If you have any other problems/questions, you can join our [Support Server!](https://discord.gg/a9SHDpD)
