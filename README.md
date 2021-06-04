@@ -21,24 +21,23 @@ npm i discordjs-activity
 
 ## 📜 | Setup
 ```js
-require("discordjs-activity")//Importing this package
-//MAKE SURE YOU IMPORTING THIS BEFORE DEFINING CLIENT
 const { Client } = require("discord.js")//Importing client
 const client = new Client()//creating a new discord.js client
+require("discordjs-activity")(client)//Importing this package and initiating it with the client
 ```
 
 ## ✍ | Examples
 ```js
-require("discordjs-activity")
 const { Client } = require("discord.js")
 const client = new Client()
+require("discordjs-activity")(client)
 
 client.on("message", async (message) => {
     if(message.author.bot)return
     if(message.content === "youtube"){
         let VoiceChannel = client.channels.cache.get("Voice Channel ID")//Voice Channel ID
         let Invite = await VoiceChannel.activityInvite("755600276941176913")//Application ID
-        message.channel.send("https://discord.com/invite/"+Invite.code)
+        message.channel.send("https://discord.com/invite/"+Invite.code)// send's invite link in the channel
     }
 })
 
@@ -62,8 +61,27 @@ Client ID: `814288819477020702`
 ![](https://cdn.discordapp.com/attachments/749254970003423345/849892686160592937/unknown.png)
 #### Even more coming soon
 
-## 👥 | Support Server
+<br>
+<br>
+
+# Core Contributers
+
+## SudhanPlayz
+<p align="center" style="text-align: center;">
+  <a href="https://youtube.com/CodingWithSudhan?sub_confirmation=1"><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/streaming/youtube%402x.png"></a>
+  <a href="https://discord.gg/a9SHDpD"><img src="https://discord.com/api/guilds/749254969537986640/widget.png?style=banner2"></a>
+</p>
+
+## Reyansh Khobragade
+
+<p align="center" style="text-align: center;">
+  <a href="https://www.youtube.com/channel/UCeJOySzx_kPMlgIyW398tRA?sub_confirmation=1"><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/streaming/youtube%402x.png"></a>
+  <a href="https://discord.gg/nc9D2rjhAR"><img src="https://discord.com/api/guilds/769046129073324032/widget.png?style=banner2"></a>
+</p>
+
+<!-- ## 👥 | Support Server
 <p align="center" style="text-align: center;">
   <a href="https://youtube.com/CodingWithSudhan"><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/streaming/youtube%402x.png"></a>
-  <a href="https://discord.gg/a9SHDpD"><img src="https://discord.com/api/guilds/749254969537986640/widget.png?style=banner1"></a>
-</p>
+  <a href="https://discord.gg/a9SHDpD"><img src="https://discord.com/api/guilds/749254969537986640/widget.png?style=banner2"></a>
+  <a href="https://discord.gg/a9SHDpD"><img src="https://discord.com/api/guilds/769046129073324032/widget.png?style=banner2"></a>
+</p> -->
