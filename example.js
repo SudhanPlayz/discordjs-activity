@@ -1,7 +1,6 @@
-require("./index")
 const { Client } = require("discord.js")
 const client = new Client()
-
+require('discordjs-activity')
 client.on("message", async (message) => {
     if(message.author.bot)return
     if(message.content === "youtube"){
