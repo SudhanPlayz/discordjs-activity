@@ -63,5 +63,7 @@ Client ID: `814288819477020702`
 #### Even more coming soon
 
 ## 👥 | Support Server
-<a href="https://www.youtube.com/CodingWithSudhan"><img widhtsrc="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/streaming/youtube%402x.png"></a></br>
+<p align="center">
+<a href="https://youtube.com/CodingWithSudhan"><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/streaming/youtube%402x.png"></a>
 <a href="https://discord.gg/a9SHDpD"><img src="https://discord.com/api/guilds/749254969537986640/widget.png?style=banner1"></a>
+</p>
