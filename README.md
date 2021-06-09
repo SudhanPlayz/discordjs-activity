@@ -16,7 +16,9 @@
 
 ## 📂 | Installation
 ```sh
-npm i discordjs-activity
+npm install discordjs-activity
+# (or)
+yarn add discordjs-activity
 ```
 
 ## 📜 | Setup
@@ -65,7 +67,6 @@ Client ID: `814288819477020702`
 <br>
 
 # Core Contributers
-
 ## SudhanPlayz
 <p align="center" style="text-align: center;">
   <a href="https://youtube.com/CodingWithSudhan?sub_confirmation=1"><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/streaming/youtube%402x.png"></a>
