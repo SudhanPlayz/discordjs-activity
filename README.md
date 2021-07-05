@@ -30,9 +30,9 @@ require("discordjs-activity")(client)//Importing this package and initiating it 
 
 ## ✍ | Examples
 ```js
+require("discordjs-activity")//Import first
 const { Client } = require("discord.js")
 const client = new Client()
-require("discordjs-activity")(client)
 
 client.on("message", async (message) => {
     if(message.author.bot)return
@@ -66,23 +66,8 @@ Client ID: `814288819477020702`
 <br>
 <br>
 
-# Core Contributers
-## SudhanPlayz
+## 👥 | Support Server
 <p align="center" style="text-align: center;">
   <a href="https://youtube.com/CodingWithSudhan?sub_confirmation=1"><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/streaming/youtube%402x.png"></a>
   <a href="https://discord.gg/a9SHDpD"><img src="https://discord.com/api/guilds/749254969537986640/widget.png?style=banner2"></a>
 </p>
-
-## Reyansh Khobragade
-
-<p align="center" style="text-align: center;">
-  <a href="https://www.youtube.com/channel/UCeJOySzx_kPMlgIyW398tRA?sub_confirmation=1"><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/streaming/youtube%402x.png"></a>
-  <a href="https://discord.gg/nc9D2rjhAR"><img src="https://discord.com/api/guilds/769046129073324032/widget.png?style=banner2"></a>
-</p>
-
-<!-- ## 👥 | Support Server
-<p align="center" style="text-align: center;">
-  <a href="https://youtube.com/CodingWithSudhan"><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/streaming/youtube%402x.png"></a>
-  <a href="https://discord.gg/a9SHDpD"><img src="https://discord.com/api/guilds/749254969537986640/widget.png?style=banner2"></a>
-  <a href="https://discord.gg/a9SHDpD"><img src="https://discord.com/api/guilds/769046129073324032/widget.png?style=banner2"></a>
-</p> -->
