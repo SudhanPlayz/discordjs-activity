@@ -69,5 +69,5 @@ Client ID: `814288819477020702`
 ## 👥 | Support Server
 <p align="center" style="text-align: center;">
   <a href="https://youtube.com/CodingWithSudhan?sub_confirmation=1"><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/streaming/youtube%402x.png"></a>
-  <a href="https://discord.gg/a9SHDpD"><img src="https://discord.com/api/guilds/749254969537986640/widget.png?style=banner2"></a>
+  <a href="https://discord.gg/sbySMS7m3v"><img src="https://discord.com/api/guilds/749254969537986640/widget.png?style=banner2"></a>
 </p>
