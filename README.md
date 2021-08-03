@@ -61,6 +61,12 @@ Client ID: `755600276941176913`
 ### Fishington.io
 Client ID: `814288819477020702`
 ![](https://cdn.discordapp.com/attachments/749254970003423345/849892686160592937/unknown.png)
+### Chess in the Park
+Client ID: `832012774040141894`
+![](https://cdn.discordapp.com/attachments/792153217344995368/872214312163377182/unknown.png)
+### Chess in the Park Development
+Client ID: `832012586023256104`
+![](https://cdn.discordapp.com/attachments/792153217344995368/872215200147832902/unknown.png)
 #### Even more coming soon
 
 <br>
