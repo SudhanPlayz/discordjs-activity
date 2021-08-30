@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/SudhanPlayz/discordjs-activity#readme",
   "dependencies": {
-    "discord.js": "^12.5.3"
+    "discord.js": "^13.0.0"
   }
 }
