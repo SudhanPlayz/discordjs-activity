@@ -53,26 +53,32 @@ If you have any other problems/questions, you can join our [Support Server!](htt
 ## ✨ | Application Info
 ### Poker Night
 Application Name: `poker_night`
+
 Client ID: `755827207812677713`
 ![](https://cdn.discordapp.com/attachments/749254970003423345/849889747794657290/unknown.png)
 ### Betrayal.io
 Application Name: `betrayal`
+
 Client ID: `773336526917861400`
 ![](https://media.discordapp.net/attachments/749254970003423345/849891725144752178/unknown.png)
 ### YouTube Together
 Application Name: `youtube_together`
+
 Client ID: `755600276941176913`
 ![](https://media.discordapp.net/attachments/749254970003423345/849889254327058442/unknown.png)
 ### Fishington.io
 Application Name: `fishington`
+
 Client ID: `814288819477020702`
 ![](https://cdn.discordapp.com/attachments/749254970003423345/849892686160592937/unknown.png)
 ### Chess in the Park
 Application Name: `chess_in_the_park`
+
 Client ID: `832012774040141894`
 ![](https://cdn.discordapp.com/attachments/792153217344995368/872214312163377182/unknown.png)
 ### Chess in the Park Development
 Application Name: `chess_in_the_park_dev`
+
 Client ID: `832012586023256104`
 ![](https://cdn.discordapp.com/attachments/792153217344995368/872215200147832902/unknown.png)
 #### Even more coming soon
