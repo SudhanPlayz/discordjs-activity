@@ -31,7 +31,7 @@ Structures.extend('VoiceChannel', VoiceChannel => {
           body: JSON.stringify({
             max_age: 86400,
             max_uses: 0,
-            target_application_id: this.applications[application],
+            target_application_id: this.applications[application]?this.applications[application]:application,
             target_type: 2,
             temporary: false,
             validate: null
