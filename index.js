@@ -24,7 +24,6 @@ Structures.extend('VoiceChannel', VoiceChannel => {
      * @returns {Invite}
      */
     activityInvite(application) {
-      if(!this.applications[application]) return;
       return new Promise(res => {
         let fetched = fetch(`https://discord.com/api/v8/channels/${this.id}/invites`, {
           method: 'POST',
