@@ -64,12 +64,12 @@ Client ID: `773336526917861400`
 ### YouTube Together
 Application Name: `youtube_together`
 
-Client ID: `880218832743055411`
+Client ID: `755600276941176913`
 ![](https://media.discordapp.net/attachments/749254970003423345/849889254327058442/unknown.png)
 ### Watch Togeter Dev
 Application Name: `watch_together_dev`
 
-Client ID: `755600276941176913`
+Client ID: `880218832743055411`
 ![](https://cdn.discordapp.com/attachments/859074807132192769/891890625153224755/unknown.png)
 ### Fishington.io
 Application Name: `fishington`
