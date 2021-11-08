@@ -66,6 +66,11 @@ Application Name: `youtube_together`
 
 Client ID: `755600276941176913`
 ![](https://media.discordapp.net/attachments/749254970003423345/849889254327058442/unknown.png)
+### Watch Togeter Dev
+Application Name: `watch_together_dev`
+
+Client ID: `880218832743055411`
+![](https://cdn.discordapp.com/attachments/859074807132192769/891890625153224755/unknown.png)
 ### Fishington.io
 Application Name: `fishington`
 
@@ -81,6 +86,21 @@ Application Name: `chess_in_the_park_dev`
 
 Client ID: `832012586023256104`
 ![](https://cdn.discordapp.com/attachments/792153217344995368/872215200147832902/unknown.png)
+### Doodle Crew
+Application Name: `doodlecrew`
+
+Client ID: `878067389634314250`
+![](https://cdn.discordapp.com/attachments/859074807132192769/891888361441210398/unknown.png)
+### Word Snacks
+Application Name: `wordsnacks`
+
+Client ID: `879863976006127627`
+![](https://cdn.discordapp.com/attachments/859074807132192769/891889448604807209/unknown.png)
+### Letter Tile
+Application Name: `lettertile`
+
+Client ID: `879863686565621790`
+![](https://cdn.discordapp.com/attachments/859074807132192769/891889864973377546/unknown.png)
 #### Even more coming soon
 
 <br>
