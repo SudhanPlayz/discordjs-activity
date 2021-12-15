@@ -66,7 +66,7 @@ Application Name: `youtube_together`
 
 Client ID: `755600276941176913`
 ![](https://media.discordapp.net/attachments/749254970003423345/849889254327058442/unknown.png)
-### Watch Togeter Dev
+### Watch Together Dev
 Application Name: `watch_together_dev`
 
 Client ID: `880218832743055411`
@@ -101,7 +101,7 @@ Application Name: `lettertile`
 
 Client ID: `879863686565621790`
 ![](https://cdn.discordapp.com/attachments/859074807132192769/891889864973377546/unknown.png)
-#### Even more coming soon
+*Even more coming soon in future*
 
 <br>
 <br>
