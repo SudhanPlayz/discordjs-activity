@@ -59,7 +59,7 @@ Client ID: `755827207812677713`
 ### Betrayal.io
 Application Name: `betrayal`
 
-Client ID: `773336526917861400`
+Client ID: `880218394199220334`
 ![](https://media.discordapp.net/attachments/749254970003423345/849891725144752178/unknown.png)
 ### YouTube Together
 Application Name: `youtube_together`
