@@ -1,6 +1,6 @@
 {
   "name": "discordjs-activity",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "description": "An simple package to create an Activity in Discord Voice Channel using Discord.js v12",
   "main": "index.js",
   "scripts": {
