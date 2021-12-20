@@ -9,7 +9,7 @@ Structures.extend('VoiceChannel', VoiceChannel => {
     constructor(client, data) {
       super(client, data);
       this.applications = {
-        "youtube_together": "755600276941176913",
+        "youtube_together": "880218394199220334",
         "watch_together_dev": "880218832743055411",
         "fishington": "814288819477020702",
         "chess_in_the_park": "832012774040141894",
