@@ -47,7 +47,7 @@ client.on("message", async (message) => {
 
 client.login("Super secret token")
 ```
-All of our Examples and activites are in [examples.js](https://github.com/SudhanPlayz/discordjs-activity/blob/main/examples.js)
+All of our Examples and activites are in [examples.js](https://github.com/SudhanPlayz/discordjs-activity/blob/master/example.js)
 If you have any other problems/questions, you can join our [Support Server!](https://discord.gg/sbySMS7m3v)
 
 ## ✨ | Application Info
