@@ -9,16 +9,24 @@ Structures.extend('VoiceChannel', VoiceChannel => {
     constructor(client, data) {
       super(client, data);
       this.applications = {
-        "youtube_together": "880218394199220334",
-        "watch_together_dev": "880218832743055411",
-        "fishington": "814288819477020702",
+        //put in the data for stable versions from https://gist.github.com/GeneralSadaf/42d91a2b6a93a7db7a39208f2d8b53ad
+        "watch_together": "880218394199220334",
+        "poker_night": "755827207812677713",
+        "betrayal.io": "773336526917861400",
+        "fishington.io": "814288819477020702",
         "chess_in_the_park": "832012774040141894",
-        "chess_in_the_park_dev": "832012586023256104",
-        "betrayal": "773336526917861400",
-        "doodlecrew": "878067389634314250",
-        "wordsnacks": "879863976006127627",
-        "lettertile": "879863686565621790",
-        "poker_night": "755827207812677713"
+        "sketchy_artist": "814288819477020702",
+        "awkword": "879863881349087252",
+        "delete_me_calla": "832012854282158180",
+        "doodle_crew": "878067389634314250",
+        "sketchy_heads": "902271654783242291",
+        "letter_league": "879863686565621790",
+        "word_snacks": "879863976006127627",
+        "spell_casts": "852509694341283871",
+        "checkers_in_the_park": "832013003968348200",
+        "blazing_8s": "832025144389533716",
+        "putt_party": "945737671223947305",
+        "land_io": "945737671223947305",
       }
     }
 
