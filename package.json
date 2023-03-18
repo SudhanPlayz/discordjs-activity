@@ -25,6 +25,6 @@
   },
   "homepage": "https://github.com/SudhanPlayz/discordjs-activity#readme",
   "dependencies": {
-    "discord.js": "12.5.3"
+    "discord.js": "14.8.0"
   }
 }
